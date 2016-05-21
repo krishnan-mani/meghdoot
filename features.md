@@ -18,3 +18,5 @@ Run CloudFormation templates
 - Create stack using template
 - Describe stacks
 - Delete stacks
+- Create stack updates
+- Decide on applying stack updates
